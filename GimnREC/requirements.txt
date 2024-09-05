@@ -1,0 +1,6 @@
+numpy
+matplotlib
+itk
+numba
+PyQt5
+vtk

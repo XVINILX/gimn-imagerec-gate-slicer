@@ -1,0 +1,3 @@
+//How to connect a Developer IDE to 3D Slicer
+
+https://github.com/SlicerRt/SlicerDebuggingTools
